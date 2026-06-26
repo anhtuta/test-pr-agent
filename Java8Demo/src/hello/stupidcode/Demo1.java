@@ -1,7 +1,7 @@
 package hello.stupidcode;
 
 public class Demo1 {
-    static String get_my_Name() {
+    static String getMyName() {
         return "John Doe";
     }
 
