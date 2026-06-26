@@ -1,0 +1,1 @@
+This is a repo with mixed languages, but mainly in java. Just a small demo project for studying
