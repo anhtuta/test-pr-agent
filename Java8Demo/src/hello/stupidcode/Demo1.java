@@ -6,7 +6,7 @@ public class Demo1 {
     static String getMyName() {
         return "John Doe";
     }
-    static String Say_something_to_me() {
+    static String saySomethingToMe() {
         return "Hello " + getMyName() + "!" + "This is a stupid code" + "and I am a stupid person" + ", hu hu hu!!!";
     }
 
