@@ -7,7 +7,7 @@ public class Demo1 {
         return "John Doe";
     }
     static String Say_something_to_me() {
-        return "Hello " + getMyName() + "!" + "This is a stupid code" + "and I am a stupid person" + ", hu hu hu!!!";
+        return "Hello " + getMyName() + "! " + "This is a stupid code " + "and I am a stupid person, hu hu hu!!!";
     }
 
     public static void main(String[] args) {
