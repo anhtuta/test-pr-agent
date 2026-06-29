@@ -1,7 +1,6 @@
 package hello.stupidcode;
 
 public class Demo1 {
-    private String name;
     private String address;
     static String getMyName() {
         return "John Doe";
