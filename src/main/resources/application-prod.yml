@@ -1,0 +1,3 @@
+spring:
+  profiles: prod
+# placeholder for CoReview policy test
